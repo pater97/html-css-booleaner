@@ -31,3 +31,8 @@ main{
 .yellow{
     background-color: yellow;
 }
+.lista{
+    padding-left: 1%;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
