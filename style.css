@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+#barra{
+    background-color:#00a1ff;
+    background-image: url(./img/pattern.png);
+}
+.logo{
+    width: 15rem;
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
