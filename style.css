@@ -1,6 +1,9 @@
 body{
     margin: 0;
 }
+main{
+    margin-left: 1%;
+}
 #barra{
     background-color:#00a1ff;
     background-image: url(./img/pattern.png);
@@ -9,4 +12,22 @@ body{
     width: 15rem;
     padding-top: 5rem;
     padding-bottom: 1rem;
+}
+#titolo{
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+.grey{
+    color:grey;
+}
+#blue{
+    color:#00bff9;
+}
+.data{
+    font-size: 0.7rem;
+    color: grey;
+    margin-bottom: 1rem;
+}
+.yellow{
+    background-color: yellow;
 }
