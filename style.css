@@ -3,6 +3,7 @@ body{
 }
 main{
     margin-left: 1%;
+    margin-right: 1%;
 }
 #barra{
     background-color:#00a1ff;
@@ -33,6 +34,29 @@ main{
 }
 .lista{
     padding-left: 1%;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+#riga1{
+    background-color:#36a9fb;
+    color: white;
+}
+.c1{
+    display: inline-block;
+    width: 24%;
+}
+.c2{
+    display: inline-block;
+    width: 24%;
+}
+.c3{
+    display: inline-block;
+    width: 50%;
+}
+.rigaceleste{
+    background-color: #80edff;
+}
+p{
     margin-top: 3rem;
     margin-bottom: 3rem;
 }
