@@ -1,7 +1,7 @@
 body{
     margin: 0;
 }
-main{
+main,footer{
     margin-left: 1%;
     margin-right: 1%;
 }
@@ -41,16 +41,17 @@ main{
     background-color:#36a9fb;
     color: white;
 }
+
 .c1{
-    display: inline-block;
+    text-align: left;
     width: 24%;
 }
 .c2{
-    display: inline-block;
+    text-align: left;
     width: 24%;
 }
 .c3{
-    display: inline-block;
+    text-align: left;
     width: 50%;
 }
 .rigaceleste{
@@ -59,4 +60,26 @@ main{
 p{
     margin-top: 3rem;
     margin-bottom: 3rem;
+}
+.inserzione1{
+    width: 20rem;
+    height: 14rem;
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: contain; 
+    margin-top: 1rem;
+}
+.inserzione2{
+    width: 20rem;
+    height: 14rem;
+    background-image: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain; 
+    margin-top: 1rem;
+}
+.text{
+    color: white;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    margin-left:2%;
 }
